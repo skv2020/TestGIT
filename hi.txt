@@ -1,2 +1,3 @@
-MASTER Login issue fixed DEVELOP1234DEV DEVELOP
+Hotfix for tag v1.0done the hotfix
+sreejithMASTER Login issue fixed DEVELOP1234DEV DEVELOP
 Login issue fixed
